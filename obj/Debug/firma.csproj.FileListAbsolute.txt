@@ -1,0 +1,10 @@
+C:\Users\gavab\source\repos\firma\bin\Debug\firma.exe.config
+C:\Users\gavab\source\repos\firma\bin\Debug\firma.exe
+C:\Users\gavab\source\repos\firma\bin\Debug\firma.pdb
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.csprojAssemblyReference.cache
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.Form1.resources
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.Properties.Resources.resources
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.csproj.GenerateResource.cache
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.csproj.CoreCompileInputs.cache
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.exe
+C:\Users\gavab\source\repos\firma\obj\Debug\firma.pdb
